@@ -1,2 +1,2 @@
 # read-me
-hello world!
+print("hello")
